@@ -6,4 +6,4 @@ This repository creates a browser-based text editor that operates as a single-pa
 ![Image](./images/JATE.png)
 
 ## Link to Deployed Site
-[Deployed Site]()
+[Deployed Site](https://changing-text.onrender.com/)
